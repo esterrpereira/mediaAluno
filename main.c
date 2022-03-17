@@ -14,7 +14,7 @@ int main() {
     if (media< 6 && media >= 4  )
    printf(" Você está de RECUPERAÇÃO");
 else
-  if (media < 4 )
+   if (media < 4 )
     printf("Você foi REPROVADO!");
  
   
